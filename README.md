@@ -23,7 +23,7 @@ export ENDPOINT=<your-azure-text-translator-endpoint>
 export LOCATION=<your-azure-text-translator-location>
 ```
 For example:
-[!keys](/screenshots/key.png)
+![keys](/screenshots/key.png)
 
 4. Run the app
 ```bash
